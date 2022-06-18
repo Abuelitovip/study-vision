@@ -1,7 +1,7 @@
 {
     "name": "STUDY-VISION",
     "description": "Watch youtube videos taking up the maximum space of your browser, without hiding the tabs, the desktop or the window bar.",
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "manifest_version": 3,
     "content_scripts": [
         {
